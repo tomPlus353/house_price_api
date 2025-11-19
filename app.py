@@ -14,34 +14,34 @@ cat_cols = joblib.load("./model/cat_cols.joblib")
 
 app = FastAPI()
 
-# test_input: dict = {
-#     "Municipality": "Izumi Ward,Sendai City",
-#     "DistrictName": "Minaminakayama",
-#     "Area": 225.09,
-#     "TotalFloorArea": 129.89,
-#     "BuildingYear": 1996.0,
-#     "CoverageRatio": 40.0,
-#     "FloorAreaRatio": 60.0,
-#     "MaxTimeToNearestStation": 21.0,
-#     "MinTimeToNearestStation": 21.0,
-# }
+test_input: dict = {
+    "Municipality": ["Izumi Ward,Sendai City"],
+    "DistrictName": ["Minaminakayama"],
+    "Area": [225.09],
+    "TotalFloorArea": [129.89],
+    "BuildingYear": [1996.0],
+    "CoverageRatio": [40.0],
+    "FloorAreaRatio": [60.0],
+    "MaxTimeToNearestStation": [21.0],
+    "MinTimeToNearestStation": [21.0],
+}
 ## real asking price: 1,990万円
 
 test_input: dict = {
-    "Municipality": ["Izumi Ward,Sendai"],
+    "Municipality": ["Izumi Ward,Sendai City"],
     "DistrictName": ["Asahigaoka"],
     "Area": [100.19],
     "TotalFloorArea": [34.83],
     "BuildingYear": [1968.0],
     "CoverageRatio": [50.0],
     "FloorAreaRatio": [80.0],
-    "MaxTimeToNearestStation": [5.0],
+    "MaxTimeToNearestStation": [20.0],
     "MinTimeToNearestStation": [5.0],
 }
 ## real asking price: 1,300万円
 
 # test_input = {
-#     "Municipality": ["Izumi Ward,Sendai"],
+#     "Municipality": ["Izumi Ward,Sendai City"],
 #     "DistrictName": ["Yamanotera"],
 #     "Area": [380.18],
 #     "TotalFloorArea": [180.94],
@@ -87,7 +87,9 @@ def predict(request: InputData = InputData(data=test_input)):
     print("Input DataFrame:")
     print(df)
     # Engineer new feature
-    df["DistrictName2"] = df["DistrictName"].astype("str") + df["Municipality"].astype("str")
+    df["DistrictName2"] = df["DistrictName"].astype("str") + df["Municipality"].astype(
+        "str"
+    )
     print("DataFrame with DistrictName2:")
     print(df)
 
@@ -96,11 +98,17 @@ def predict(request: InputData = InputData(data=test_input)):
     print("num_cols:", num_cols)
     cat_encoded = encoder.transform(df[cat_cols]).toarray()
     print("Encoded categorical features shape:", cat_encoded.shape)
-    print("Encoded categorical features (first row):", cat_encoded[0] if cat_encoded.shape[0] > 0 else cat_encoded)
+    print(
+        "Encoded categorical features (first row):",
+        cat_encoded[0] if cat_encoded.shape[0] > 0 else cat_encoded,
+    )
     # Standardize numerical features using the *already fitted* scaler
     num_scaled = scaler.transform(df[num_cols])
     print("Scaled numerical features shape:", num_scaled.shape)
-    print("Scaled numerical features (first row):", num_scaled[0] if num_scaled.shape[0] > 0 else num_scaled)
+    print(
+        "Scaled numerical features (first row):",
+        num_scaled[0] if num_scaled.shape[0] > 0 else num_scaled,
+    )
 
     # Combine numerical and categorical features
     X = np.hstack([cat_encoded, num_scaled])
@@ -111,4 +119,4 @@ def predict(request: InputData = InputData(data=test_input)):
     prediction = model.predict(X)
     print("Raw model prediction:", prediction)
 
-    return {"prediction": float(prediction[0][0])}
+    return {"prediction": f"{prediction[0][0]:,.2f}円"}
