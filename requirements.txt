@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+tensorflow
+tensorflow-macos
+tensorflow-metal
+keras
+joblib
+numpy
+scikit-learn
+pydantic
+pandas
+seaborn
+matplotlib
+kaggle
