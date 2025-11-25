@@ -1,8 +1,6 @@
 fastapi
 uvicorn
 tensorflow
-tensorflow-macos
-tensorflow-metal
 keras
 joblib
 numpy
