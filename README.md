@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # House Price Prediction API
 
 Small FastAPI service that loads a trained Keras model and supporting
@@ -96,22 +95,3 @@ Troubleshooting
   column (or pass unexpected types), inspect `app.py` where the
   DataFrame is constructed and `encoder.transform` is called. The
   validator can be used before encoding to avoid these errors.
-- On macOS with Apple Silicon, `tensorflow` may require `tensorflow-macos`
-  and `tensorflow-metal` in order to use native acceleration. Those are
-  already listed in `requirements.txt`.
-
-Next steps I can help with
-
-- Convert `tests.py` into a `pytest` suite with thresholds and CI
-  configuration.
-- Add a small pre-validation layer in `app.py` that calls
-  `utils.validator.load_allowed_categories()` and returns structured
-  validation messages (so clients can auto-correct inputs).
-- Add instructions for packaging or containerizing the app (Dockerfile).
-
-If you want any of those, tell me which and I'll implement it.
-=======
-# House Price Predictor with neural net
-
-Uses kaggle house price dataset
->>>>>>> 53295e0478a5875734bb0de271e14efc471eb109
