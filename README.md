@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # House Price Prediction API
 
 Small FastAPI service that loads a trained Keras model and supporting
@@ -109,3 +110,8 @@ Next steps I can help with
 - Add instructions for packaging or containerizing the app (Dockerfile).
 
 If you want any of those, tell me which and I'll implement it.
+=======
+# House Price Predictor with neural net
+
+Uses kaggle house price dataset
+>>>>>>> 53295e0478a5875734bb0de271e14efc471eb109
