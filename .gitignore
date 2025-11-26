@@ -1,3 +1,4 @@
 .DS_Store
 ./model_*
-bk.*
+.bk.nov25.git
+housePrice
