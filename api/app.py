@@ -8,7 +8,7 @@ from pydantic import BaseModel
 from utils.validator import validate_categorical_inputs, load_allowed_categories
 
 # Load artifacts
-MODEL_DIR = "./model"
+MODEL_DIR = "./model_renovation"
 model = tf.keras.models.load_model(f"{MODEL_DIR}/real_estate_model.keras")
 encoder = joblib.load(f"{MODEL_DIR}/one_hot_encoder.joblib")
 scaler = joblib.load(f"{MODEL_DIR}/robust_scaler.joblib")
