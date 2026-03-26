@@ -23,6 +23,7 @@ import pandas as pd
 import numpy as np
 from fastapi import FastAPI
 from pydantic import BaseModel
+# from utils.validator import validate_categorical_inputs, load_allowed_categories
 
 # Set up persistent volume for model storage(files need to be uploaded manually beforehand)
 model_volume = modal.Volume.from_name("model-storage", create_if_missing=True)
@@ -61,6 +62,20 @@ def predict(request: InputData):
 
         df = pd.DataFrame(raw)
 
+
+        # mapping = load_allowed_categories(MODEL_DIR)
+        # print("Allowed categories mapping computed.")
+
+        # validated_data, validation_issues = validate_categorical_inputs(
+        #     request.data, mapping
+        # )
+        # if validation_issues:
+        #     print("Validation issues found:")
+        #     print(validation_issues)
+        #     print("Validated data:", validated_data)
+        #     return {"error": "Input validation failed", "details": validation_issues}
+
+
         # Feature engineering
         df["DistrictName2"] = df["DistrictName"].astype(str) + df["Municipality"].astype(str)
         df["AgeAtSale"] = df["Year"] - df["BuildingYear"]
@@ -76,9 +91,6 @@ def predict(request: InputData):
 
 # def predict():
 #     return {"message": "Predict endpoint exists!"}
-
-
-    
 
 
 

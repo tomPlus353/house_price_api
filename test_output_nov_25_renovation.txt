@@ -1,0 +1,14 @@
+Miyagino Odawara - 113.56 m2: Predicted 49,245,836.00円 | Expected 47,800,000.00円 | Diff 1,445,836.00円 (3.02%)
+Miyagino Odawara - 78.61 m2: Predicted 39,826,068.00円 | Expected 38,800,000.00円 | Diff 1,026,068.00円 (2.64%)
+Minaminakayama - Izumichuo: Predicted 17,894,150.00円 | Expected 19,900,000.00円 | Diff -2,005,850.00円 (-10.08%)
+Asahigaoka - Kuromatsu: Predicted 14,001,514.00円 | Expected 13,000,000.00円 | Diff 1,001,514.00円 (7.70%)
+Yamanotera: Predicted 19,074,152.00円 | Expected 13,000,000.00円 | Diff 6,074,152.00円 (46.72%)
+Tagajo Sakuragi: Predicted 11,108,836.00円 | Expected 12,500,000.00円 | Diff -1,391,164.00円 (-11.13%)
+
+Summary
+- Miyagino Odawara - 113.56 m2: diff 1,445,836.00円 (3.02%)
+- Miyagino Odawara - 78.61 m2: diff 1,026,068.00円 (2.64%)
+- Minaminakayama - Izumichuo: diff -2,005,850.00円 (-10.08%)
+- Asahigaoka - Kuromatsu: diff 1,001,514.00円 (7.70%)
+- Yamanotera: diff 6,074,152.00円 (46.72%)
+- Tagajo Sakuragi: diff -1,391,164.00円 (-11.13%)

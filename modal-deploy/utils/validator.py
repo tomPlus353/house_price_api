@@ -53,8 +53,6 @@ def load_allowed_categories(model_dir: str) -> Dict[str, List[str]]:
             # Ensure all values are strings for robust matching
             mapping[col] = [str(x) for x in list(cats)]
 
-    print("mapping for Renovation", mapping.get("Renovation", []))
-
     return mapping
 
 
@@ -97,6 +95,7 @@ def validate_categorical_inputs(
             vals = v
         else:
             vals = [v]
+        
 
         # For fields that we have allowed values for, validate each entry
         if k in allowed_mapping:

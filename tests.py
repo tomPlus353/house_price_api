@@ -35,6 +35,7 @@ def parse_prediction(pred_str: str) -> float:
 
 
 TEST_CASES: List[Dict[str, Any]] = [
+    # https://www.athome.co.jp/kodate/3919135602/?DOWN=1&BKLISTID=001LPC&SEARCHDIV=1&sref=list_simple
     {
         "name": "Miyagino Odawara - 113.56 m2",
         "input": {
@@ -51,9 +52,11 @@ TEST_CASES: List[Dict[str, Any]] = [
             "CityPlanning": ["Category II Residential Zone"],
             "Structure": ["W"],
             "Year": [2025],
+            "Renovation": ["Not yet"],
         },
         "expected_man_yen": 4780,
     },
+    #　https://www.athome.co.jp/kodate/1148953214/?DOWN=1&BKLISTID=001LPC&SEARCHDIV=1&sref=list_simple
     {
         "name": "Miyagino Odawara - 78.61 m2",
         "input": {
@@ -70,9 +73,11 @@ TEST_CASES: List[Dict[str, Any]] = [
             "CityPlanning": ["Category II Residential Zone"],
             "Structure": ["W"],
             "Year": [2025],
+            "Renovation": ["Not yet"],
         },
         "expected_man_yen": 3880,
     },
+    #　https://www.athome.co.jp/kodate/1050201976/?DOWN=1&BKLISTID=001LPC&SEARCHDIV=1&sref=list_simple
     {
         "name": "Minaminakayama - Izumichuo",
         "input": {
@@ -89,9 +94,11 @@ TEST_CASES: List[Dict[str, Any]] = [
             "CityPlanning": ["Category I Exclusively Low-story Residential Zone"],
             "Structure": ["W"],
             "Year": [2025],
+            "Renovation": ["Not yet"],
         },
         "expected_man_yen": 1990,
     },
+    #　https://www.athome.co.jp/kodate/1130938817/?DOWN=2&BKLISTID=002LPC&SEARCHDIV=1&sref=list_simple
     {
         "name": "Asahigaoka - Kuromatsu",
         "input": {
@@ -108,9 +115,11 @@ TEST_CASES: List[Dict[str, Any]] = [
             "CityPlanning": ["Category I Exclusively Low-story Residential Zone"],
             "Structure": ["W"],
             "Year": [2025],
+            "Renovation": ["Not yet"],
         },
         "expected_man_yen": 1300,
     },
+    # https://www.athome.co.jp/kodate/6986071654/?DOWN=1&BKLISTID=001LPC&SEARCHDIV=1&sref=list_simple
     {
         "name": "Yamanotera",
         "input": {
@@ -127,9 +136,57 @@ TEST_CASES: List[Dict[str, Any]] = [
             "CityPlanning": ["Category I Exclusively Low-story Residential Zone"],
             "Structure": ["W"],
             "Year": [2025],
+            "Renovation": ["Done"],
         },
         "expected_man_yen": 1300,
     },
+    #　https://www.athome.co.jp/kodate/6988440661/?DOWN=1&BKLISTID=001LPC&SEARCHDIV=1&sref=list_simple
+    {
+        "name": "Tagajo Sakuragi",
+        "input": {
+        "Municipality": [
+            "Tagajo City"
+        ],
+        "DistrictName": [
+            "Sakuragi"
+        ],
+        "Area": [
+            195.34
+        ],
+        "TotalFloorArea": [
+            77.01
+        ],
+        "BuildingYear": [
+            1982.5
+        ],
+        "CoverageRatio": [
+            60
+        ],
+        "FloorAreaRatio": [
+            160
+        ],
+        "MaxTimeToNearestStation": [
+            17
+        ],
+        "MinTimeToNearestStation": [
+            17
+        ],
+        "NearestStation": [
+            "Tagajo"
+        ],
+        "CityPlanning": [
+            "Category I Residential Zone"
+        ],
+        "Structure": [
+            "W"
+        ],
+        "Year": [
+            2025
+        ],
+        "Renovation": ["Done"],
+        },
+        "expected_man_yen": 1250,
+    }
 ]
 
 
