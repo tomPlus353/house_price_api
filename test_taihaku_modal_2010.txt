@@ -1,0 +1,120 @@
+mapping for Renovation ['Done', 'Not yet']
+row_2_青山_2010年第4四半期: Predicted 6,367,512円 | Actual 4,000,000円 | Abs diff 2,367,512円 | APE 59.19%
+row_3_青山_2010年第4四半期: Predicted 7,796,519円 | Actual 3,500,000円 | Abs diff 4,296,519円 | APE 122.76%
+row_4_青山_2010年第4四半期: Predicted 8,835,346円 | Actual 10,000,000円 | Abs diff 1,164,654円 | APE 11.65%
+row_5_青山_2010年第4四半期: Predicted 7,287,878円 | Actual 11,000,000円 | Abs diff 3,712,122円 | APE 33.75%
+row_6_泉崎_2010年第4四半期: Predicted 35,039,764円 | Actual 32,000,000円 | Abs diff 3,039,764円 | APE 9.50%
+row_7_泉崎_2010年第4四半期: Predicted 155,508,064円 | Actual 220,000,000円 | Abs diff 64,491,936円 | APE 29.31%
+row_8_大塒町_2010年第4四半期: Predicted 15,901,764円 | Actual 31,000,000円 | Abs diff 15,098,236円 | APE 48.70%
+row_9_鈎取_2010年第4四半期: Predicted 22,550,410円 | Actual 24,000,000円 | Abs diff 1,449,590円 | APE 6.04%
+row_10_鈎取_2010年第4四半期: Predicted 22,169,802円 | Actual 16,000,000円 | Abs diff 6,169,802円 | APE 38.56%
+row_11_鈎取_2010年第4四半期: Predicted 23,480,824円 | Actual 28,000,000円 | Abs diff 4,519,176円 | APE 16.14%
+row_12_郡山_2010年第4四半期: Predicted 20,718,426円 | Actual 17,000,000円 | Abs diff 3,718,426円 | APE 21.87%
+row_13_郡山_2010年第4四半期: Predicted 29,965,216円 | Actual 30,000,000円 | Abs diff 34,784円 | APE 0.12%
+row_14_郡山_2010年第4四半期: Predicted 29,415,900円 | Actual 32,000,000円 | Abs diff 2,584,100円 | APE 8.08%
+row_15_郡山_2010年第4四半期: SKIPPED - missing_BuildingYear|missing_TotalFloorArea | BuildingYear=''; TotalFloorArea=''
+row_16_桜木町_2010年第4四半期: Predicted 8,344,408円 | Actual 12,000,000円 | Abs diff 3,655,592円 | APE 30.46%
+row_17_佐保山_2010年第4四半期: Predicted 8,557,515円 | Actual 17,000,000円 | Abs diff 8,442,485円 | APE 49.66%
+row_18_四郎丸_2010年第4四半期: Predicted 17,670,228円 | Actual 18,000,000円 | Abs diff 329,772円 | APE 1.83%
+row_19_四郎丸_2010年第4四半期: Predicted 11,485,806円 | Actual 11,000,000円 | Abs diff 485,806円 | APE 4.42%
+row_20_四郎丸_2010年第4四半期: Predicted 12,916,069円 | Actual 19,000,000円 | Abs diff 6,083,931円 | APE 32.02%
+row_21_四郎丸_2010年第4四半期: Predicted 10,598,109円 | Actual 5,500,000円 | Abs diff 5,098,109円 | APE 92.69%
+row_22_砂押南町_2010年第4四半期: Predicted 25,866,452円 | Actual 29,000,000円 | Abs diff 3,133,548円 | APE 10.81%
+row_23_太子堂_2010年第4四半期: Predicted 34,297,672円 | Actual 34,000,000円 | Abs diff 297,672円 | APE 0.88%
+row_24_太白_2010年第4四半期: Predicted 19,845,086円 | Actual 22,000,000円 | Abs diff 2,154,914円 | APE 9.80%
+row_25_中田_2010年第4四半期: Predicted 29,095,296円 | Actual 33,000,000円 | Abs diff 3,904,704円 | APE 11.83%
+row_26_中田町_2010年第4四半期: Predicted 26,194,594円 | Actual 24,000,000円 | Abs diff 2,194,594円 | APE 9.14%
+row_27_西中田_2010年第4四半期: SKIPPED - missing_CoverageRatio|missing_FloorAreaRatio | CoverageRatio=''; FloorAreaRatio=''
+row_28_西の平_2010年第4四半期: Predicted 23,106,970円 | Actual 24,000,000円 | Abs diff 893,030円 | APE 3.72%
+row_29_羽黒台_2010年第4四半期: Predicted 7,456,662円 | Actual 8,600,000円 | Abs diff 1,143,338円 | APE 13.29%
+row_30_青山_2011年第4四半期: Predicted 6,034,604円 | Actual 4,200,000円 | Abs diff 1,834,604円 | APE 43.68%
+row_31_東中田_2010年第4四半期: Predicted 23,356,080円 | Actual 26,000,000円 | Abs diff 2,643,920円 | APE 10.17%
+row_32_東中田_2010年第4四半期: Predicted 9,718,095円 | Actual 6,700,000円 | Abs diff 3,018,095円 | APE 45.05%
+row_33_青山_2011年第3四半期: Predicted 7,974,942円 | Actual 4,900,000円 | Abs diff 3,074,942円 | APE 62.75%
+row_34_青山_2011年第2四半期: Predicted 6,609,088円 | Actual 710,000円 | Abs diff 5,899,088円 | APE 830.86%
+row_35_青山_2011年第2四半期: Predicted 6,178,972円 | Actual 5,300,000円 | Abs diff 878,972円 | APE 16.58%
+row_36_青山_2011年第2四半期: Predicted 6,569,584円 | Actual 8,500,000円 | Abs diff 1,930,416円 | APE 22.71%
+row_37_青山_2011年第1四半期: Predicted 20,293,126円 | Actual 30,000,000円 | Abs diff 9,706,874円 | APE 32.36%
+row_38_秋保町湯元_2011年第2四半期: Predicted 5,011,919円 | Actual 8,500,000円 | Abs diff 3,488,081円 | APE 41.04%
+row_39_芦の口_2011年第4四半期: Predicted 14,581,122円 | Actual 16,000,000円 | Abs diff 1,418,878円 | APE 8.87%
+row_40_芦の口_2011年第2四半期: Predicted 24,525,092円 | Actual 23,000,000円 | Abs diff 1,525,092円 | APE 6.63%
+row_41_芦の口_2011年第1四半期: Predicted 23,367,132円 | Actual 25,000,000円 | Abs diff 1,632,868円 | APE 6.53%
+row_42_泉崎_2011年第3四半期: Predicted 45,522,600円 | Actual 40,000,000円 | Abs diff 5,522,600円 | APE 13.81%
+row_43_泉崎_2011年第2四半期: Predicted 34,922,544円 | Actual 39,000,000円 | Abs diff 4,077,456円 | APE 10.46%
+row_44_大塒町_2011年第1四半期: Predicted 20,546,162円 | Actual 20,000,000円 | Abs diff 546,162円 | APE 2.73%
+row_45_袋原_2010年第4四半期: Predicted 16,458,336円 | Actual 16,000,000円 | Abs diff 458,336円 | APE 2.86%
+row_46_袋原_2010年第4四半期: Predicted 16,340,373円 | Actual 17,000,000円 | Abs diff 659,627円 | APE 3.88%
+row_47_袋原_2010年第4四半期: Predicted 8,870,461円 | Actual 13,000,000円 | Abs diff 4,129,539円 | APE 31.77%
+row_48_袋原_2010年第4四半期: Predicted 6,323,538円 | Actual 6,000,000円 | Abs diff 323,538円 | APE 5.39%
+row_49_袋原_2010年第4四半期: Predicted 16,087,917円 | Actual 16,000,000円 | Abs diff 87,917円 | APE 0.55%
+row_50_大谷地_2011年第4四半期: Predicted 23,654,892円 | Actual 26,000,000円 | Abs diff 2,345,108円 | APE 9.02%
+row_51_大谷地_2011年第2四半期: Predicted 22,619,620円 | Actual 24,000,000円 | Abs diff 1,380,380円 | APE 5.75%
+row_52_鈎取_2011年第3四半期: SKIPPED - missing_BuildingYear | BuildingYear=''
+row_53_鈎取_2011年第3四半期: Predicted 11,000,021円 | Actual 14,000,000円 | Abs diff 2,999,979円 | APE 21.43%
+row_54_鈎取_2011年第3四半期: Predicted 8,762,999円 | Actual 12,000,000円 | Abs diff 3,237,001円 | APE 26.98%
+row_55_鈎取_2011年第2四半期: Predicted 12,825,031円 | Actual 13,000,000円 | Abs diff 174,969円 | APE 1.35%
+row_56_緑ケ丘_2010年第4四半期: Predicted 6,038,993円 | Actual 19,000,000円 | Abs diff 12,961,007円 | APE 68.22%
+row_57_鈎取本町_2011年第3四半期: Predicted 24,934,088円 | Actual 23,000,000円 | Abs diff 1,934,088円 | APE 8.41%
+row_58_鈎取本町_2011年第1四半期: SKIPPED - missing_BuildingYear|missing_Structure|missing_TotalFloorArea | BuildingYear=''; Structure=''; TotalFloorArea=''
+row_59_鹿野_2011年第4四半期: Predicted 32,068,568円 | Actual 36,000,000円 | Abs diff 3,931,432円 | APE 10.92%
+row_60_鹿野_2011年第2四半期: Predicted 37,828,772円 | Actual 41,000,000円 | Abs diff 3,171,228円 | APE 7.73%
+row_61_上野山_2011年第2四半期: Predicted 10,092,513円 | Actual 12,000,000円 | Abs diff 1,907,487円 | APE 15.90%
+row_62_上野山_2011年第1四半期: Predicted 15,710,963円 | Actual 9,900,000円 | Abs diff 5,810,963円 | APE 58.70%
+row_63_恵和町_2011年第4四半期: Predicted 19,722,476円 | Actual 21,000,000円 | Abs diff 1,277,524円 | APE 6.08%
+row_64_恵和町_2011年第4四半期: Predicted 5,556,134円 | Actual 7,300,000円 | Abs diff 1,743,866円 | APE 23.89%
+row_65_郡山_2011年第3四半期: Predicted 24,864,664円 | Actual 27,000,000円 | Abs diff 2,135,336円 | APE 7.91%
+row_66_郡山_2011年第2四半期: Predicted 18,066,332円 | Actual 15,000,000円 | Abs diff 3,066,332円 | APE 20.44%
+row_67_郡山_2011年第1四半期: Predicted 35,944,316円 | Actual 35,000,000円 | Abs diff 944,316円 | APE 2.70%
+row_68_郡山_2011年第1四半期: Predicted 40,046,616円 | Actual 44,000,000円 | Abs diff 3,953,384円 | APE 8.98%
+row_69_八木山本町_2010年第4四半期: Predicted 22,136,182円 | Actual 18,000,000円 | Abs diff 4,136,182円 | APE 22.98%
+row_70_郡山_2011年第4四半期: Predicted 19,128,372円 | Actual 11,000,000円 | Abs diff 8,128,372円 | APE 73.89%
+row_71_郡山_2011年第2四半期: Predicted 19,490,792円 | Actual 14,000,000円 | Abs diff 5,490,792円 | APE 39.22%
+row_72_八木山本町_2010年第4四半期: Predicted 17,290,704円 | Actual 28,000,000円 | Abs diff 10,709,296円 | APE 38.25%
+row_73_八木山松波町_2010年第4四半期: Predicted 4,846,741円 | Actual 7,100,000円 | Abs diff 2,253,259円 | APE 31.74%
+row_74_柳生_2010年第4四半期: Predicted 25,817,274円 | Actual 31,000,000円 | Abs diff 5,182,726円 | APE 16.72%
+row_75_柳生_2010年第4四半期: Predicted 26,769,748円 | Actual 31,000,000円 | Abs diff 4,230,252円 | APE 13.65%
+row_76_四郎丸_2011年第4四半期: Predicted 8,656,605円 | Actual 11,000,000円 | Abs diff 2,343,395円 | APE 21.30%
+row_77_四郎丸_2011年第4四半期: Predicted 9,194,939円 | Actual 8,900,000円 | Abs diff 294,939円 | APE 3.31%
+row_78_四郎丸_2011年第4四半期: Predicted 20,783,048円 | Actual 22,000,000円 | Abs diff 1,216,952円 | APE 5.53%
+row_79_四郎丸_2011年第4四半期: Predicted 20,628,460円 | Actual 21,000,000円 | Abs diff 371,540円 | APE 1.77%
+row_80_四郎丸_2011年第3四半期: SKIPPED - missing_CoverageRatio|missing_FloorAreaRatio | CoverageRatio=''; FloorAreaRatio=''
+row_81_四郎丸_2011年第3四半期: Predicted 19,841,032円 | Actual 19,000,000円 | Abs diff 841,032円 | APE 4.43%
+row_82_四郎丸_2011年第2四半期: Predicted 19,572,634円 | Actual 17,000,000円 | Abs diff 2,572,634円 | APE 15.13%
+row_83_四郎丸_2011年第2四半期: Predicted 19,520,526円 | Actual 19,000,000円 | Abs diff 520,526円 | APE 2.74%
+row_84_四郎丸_2011年第2四半期: Predicted 20,213,890円 | Actual 18,000,000円 | Abs diff 2,213,890円 | APE 12.30%
+row_85_四郎丸_2011年第2四半期: Predicted 7,623,614円 | Actual 13,000,000円 | Abs diff 5,376,386円 | APE 41.36%
+row_86_土手内_2011年第4四半期: SKIPPED - missing_Structure|missing_TotalFloorArea | Structure=''; TotalFloorArea=''
+row_87_土手内_2011年第4四半期: Predicted 13,810,846円 | Actual 15,000,000円 | Abs diff 1,189,154円 | APE 7.93%
+row_88_富沢南_2011年第4四半期: Predicted 41,102,236円 | Actual 43,000,000円 | Abs diff 1,897,764円 | APE 4.41%
+row_89_富田_2011年第4四半期: Predicted 16,153,324円 | Actual 13,000,000円 | Abs diff 3,153,324円 | APE 24.26%
+row_90_中田_2011年第4四半期: Predicted 29,511,816円 | Actual 31,000,000円 | Abs diff 1,488,184円 | APE 4.80%
+row_91_中田_2011年第4四半期: Predicted 24,924,568円 | Actual 28,000,000円 | Abs diff 3,075,432円 | APE 10.98%
+row_92_中田_2011年第4四半期: Predicted 27,416,948円 | Actual 28,000,000円 | Abs diff 583,052円 | APE 2.08%
+row_93_中田_2011年第3四半期: Predicted 17,583,908円 | Actual 7,800,000円 | Abs diff 9,783,908円 | APE 125.43%
+row_94_中田_2011年第3四半期: Predicted 27,934,382円 | Actual 28,000,000円 | Abs diff 65,618円 | APE 0.23%
+row_95_中田_2011年第3四半期: Predicted 29,986,178円 | Actual 32,000,000円 | Abs diff 2,013,822円 | APE 6.29%
+row_96_中田_2011年第2四半期: Predicted 25,786,180円 | Actual 28,000,000円 | Abs diff 2,213,820円 | APE 7.91%
+row_97_長町_2011年第4四半期: Predicted 31,245,542円 | Actual 35,000,000円 | Abs diff 3,754,458円 | APE 10.73%
+row_98_長町_2011年第3四半期: Predicted 90,388,544円 | Actual 65,000,000円 | Abs diff 25,388,544円 | APE 39.06%
+row_99_長町_2011年第3四半期: Predicted 136,922,320円 | Actual 53,000,000円 | Abs diff 83,922,320円 | APE 158.34%
+row_100_長町南_2011年第4四半期: Predicted 30,921,152円 | Actual 36,000,000円 | Abs diff 5,078,848円 | APE 14.11%
+row_101_長町南_2011年第3四半期: SKIPPED - missing_CoverageRatio|missing_FloorAreaRatio | CoverageRatio=''; FloorAreaRatio=''
+
+Summary
+Results written to: taihaku_2010_results.csv
+Rows processed: 100
+Successful tests: 93
+Skipped rows: 7
+Request errors: 0
+MAE: 4,900,924円
+Median abs error: 2,572,634円
+MAPE: 31.61%
+Median APE: 11.83%
+Station time sources:
+- observed: 93
+Skip reasons:
+- missing_CoverageRatio|missing_FloorAreaRatio: 3
+- missing_BuildingYear: 1
+- missing_BuildingYear|missing_Structure|missing_TotalFloorArea: 1
+- missing_BuildingYear|missing_TotalFloorArea: 1
+- missing_Structure|missing_TotalFloorArea: 1

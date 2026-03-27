@@ -54,6 +54,35 @@ python3 tests.py
 price, the absolute difference and percent difference, and a final
 summary.
 
+Taihaku CSV tests
+
+The repository also includes `test_taihaku_csv.py`, which runs the
+prediction API against MLIT transaction CSVs for Taihaku Ward and
+compares predictions to the recorded sale price in each row.
+
+Typical usage:
+
+```bash
+python3 test_taihaku_csv.py --csv "Miyagi Prefecture_Taihaku Ward_20174_20184.csv" --limit 100 --output "taihaku_2018_results.csv" > "test_taihaku_modal_2018.txt"
+```
+
+How it works:
+
+- Reads one Taihaku CSV and converts MLIT Japanese columns into the API
+  feature schema.
+- Normalizes known district / station / zoning labels into the model's
+  canonical category strings.
+- Uses `api/utils/validator.py` before sending any request. This is
+  required: the test runner should validate generated payloads against
+  the encoder vocabulary instead of posting unchecked category values.
+- Uses same-file station-time median imputation only when station name
+  exists but station time is blank.
+- Skips rows that are still missing required model inputs such as
+  structure, building year, total floor area, or blank station name.
+- Writes a results CSV and prints a text summary. Skipped rows include
+  the skip reason plus the exact failing values, which makes mapping and
+  parsing problems easier to debug.
+
 Validator
 
 The file `utils/validator.py` contains helpers to load allowed

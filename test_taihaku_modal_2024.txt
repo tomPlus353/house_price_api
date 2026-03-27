@@ -1,0 +1,120 @@
+mapping for Renovation ['Done', 'Not yet']
+row_2_青山_2024年第4四半期: Predicted 12,132,046円 | Actual 14,000,000円 | Abs diff 1,867,954円 | APE 13.34%
+row_3_秋保町湯元_2024年第4四半期: SKIPPED - missing_NearestStation|missing_station_time | NearestStation=''; station_time=''
+row_4_金剛沢_2024年第4四半期: Predicted 12,404,789円 | Actual 17,000,000円 | Abs diff 4,595,211円 | APE 27.03%
+row_5_太白_2024年第4四半期: Predicted 30,872,486円 | Actual 21,000,000円 | Abs diff 9,872,486円 | APE 47.01%
+row_6_太白_2024年第4四半期: Predicted 31,838,576円 | Actual 23,000,000円 | Abs diff 8,838,576円 | APE 38.43%
+row_7_太白_2024年第4四半期: Predicted 31,559,640円 | Actual 22,000,000円 | Abs diff 9,559,640円 | APE 43.45%
+row_8_羽黒台_2024年第4四半期: SKIPPED - missing_BuildingYear|missing_Structure | BuildingYear=''; Structure=''
+row_9_恵和町_2024年第4四半期: Predicted 10,375,722円 | Actual 11,000,000円 | Abs diff 624,278円 | APE 5.68%
+row_10_西多賀_2024年第4四半期: Predicted 34,618,264円 | Actual 37,000,000円 | Abs diff 2,381,736円 | APE 6.44%
+row_11_西多賀_2024年第4四半期: Predicted 34,618,264円 | Actual 37,000,000円 | Abs diff 2,381,736円 | APE 6.44%
+row_12_西多賀_2024年第4四半期: Predicted 27,737,894円 | Actual 22,000,000円 | Abs diff 5,737,894円 | APE 26.08%
+row_13_西多賀_2024年第4四半期: Predicted 34,618,264円 | Actual 36,000,000円 | Abs diff 1,381,736円 | APE 3.84%
+row_14_西多賀_2024年第4四半期: Predicted 28,649,580円 | Actual 29,000,000円 | Abs diff 350,420円 | APE 1.21%
+row_15_西中田_2024年第4四半期: Predicted 38,505,720円 | Actual 46,000,000円 | Abs diff 7,494,280円 | APE 16.29%
+row_16_西中田_2024年第4四半期: Predicted 31,833,786円 | Actual 34,000,000円 | Abs diff 2,166,214円 | APE 6.37%
+row_17_袋原_2024年第4四半期: Predicted 32,060,820円 | Actual 25,000,000円 | Abs diff 7,060,820円 | APE 28.24%
+row_18_袋原_2024年第4四半期: Predicted 15,788,821円 | Actual 15,000,000円 | Abs diff 788,821円 | APE 5.26%
+row_19_袋原_2024年第4四半期: Predicted 33,042,966円 | Actual 34,000,000円 | Abs diff 957,034円 | APE 2.81%
+row_20_袋原_2024年第4四半期: Predicted 10,312,059円 | Actual 7,700,000円 | Abs diff 2,612,059円 | APE 33.92%
+row_21_袋原_2024年第4四半期: Predicted 9,598,876円 | Actual 11,000,000円 | Abs diff 1,401,124円 | APE 12.74%
+row_22_袋原_2024年第4四半期: Predicted 16,674,265円 | Actual 23,000,000円 | Abs diff 6,325,735円 | APE 27.50%
+row_23_二ツ沢_2024年第4四半期: Predicted 9,704,460円 | Actual 1,000,000円 | Abs diff 8,704,460円 | APE 870.45%
+row_24_東中田_2024年第4四半期: SKIPPED - missing_CoverageRatio|missing_FloorAreaRatio | CoverageRatio=''; FloorAreaRatio=''
+row_25_東中田_2024年第4四半期: SKIPPED - missing_CoverageRatio|missing_FloorAreaRatio | CoverageRatio=''; FloorAreaRatio=''
+row_26_郡山_2024年第4四半期: Predicted 41,327,684円 | Actual 45,000,000円 | Abs diff 3,672,316円 | APE 8.16%
+row_27_郡山_2024年第4四半期: Predicted 36,203,216円 | Actual 35,000,000円 | Abs diff 1,203,216円 | APE 3.44%
+row_28_郡山_2024年第4四半期: Predicted 36,102,596円 | Actual 40,000,000円 | Abs diff 3,897,404円 | APE 9.74%
+row_29_郡山_2024年第4四半期: Predicted 33,817,728円 | Actual 25,000,000円 | Abs diff 8,817,728円 | APE 35.27%
+row_30_四郎丸_2024年第4四半期: Predicted 12,343,007円 | Actual 24,000,000円 | Abs diff 11,656,993円 | APE 48.57%
+row_31_四郎丸_2024年第4四半期: Predicted 12,881,817円 | Actual 15,000,000円 | Abs diff 2,118,183円 | APE 14.12%
+row_32_八木山南_2024年第4四半期: Predicted 33,529,226円 | Actual 32,000,000円 | Abs diff 1,529,226円 | APE 4.78%
+row_33_山田上ノ台町_2024年第4四半期: Predicted 46,554,340円 | Actual 39,000,000円 | Abs diff 7,554,340円 | APE 19.37%
+row_34_山田上ノ台町_2024年第4四半期: Predicted 46,554,340円 | Actual 39,000,000円 | Abs diff 7,554,340円 | APE 19.37%
+row_35_若葉町_2024年第4四半期: Predicted 11,208,459円 | Actual 13,000,000円 | Abs diff 1,791,541円 | APE 13.78%
+row_36_ひより台_2024年第4四半期: Predicted 29,963,842円 | Actual 28,000,000円 | Abs diff 1,963,842円 | APE 7.01%
+row_37_青山_2025年第1四半期: SKIPPED - missing_NearestStation|missing_station_time | NearestStation=''; station_time=''
+row_38_青山_2025年第1四半期: Predicted 15,056,189円 | Actual 15,000,000円 | Abs diff 56,189円 | APE 0.37%
+row_39_金剛沢_2025年第1四半期: Predicted 24,492,628円 | Actual 32,000,000円 | Abs diff 7,507,372円 | APE 23.46%
+row_40_富沢_2025年第1四半期: Predicted 39,746,404円 | Actual 44,000,000円 | Abs diff 4,253,596円 | APE 9.67%
+row_41_富沢_2025年第1四半期: Predicted 40,360,804円 | Actual 42,000,000円 | Abs diff 1,639,196円 | APE 3.90%
+row_42_長町南_2025年第1四半期: Predicted 47,008,896円 | Actual 53,000,000円 | Abs diff 5,991,104円 | APE 11.30%
+row_43_八木山香澄町_2025年第1四半期: SKIPPED - missing_NearestStation|missing_station_time | NearestStation=''; station_time=''
+row_44_八木山緑町_2025年第1四半期: Predicted 31,924,722円 | Actual 31,000,000円 | Abs diff 924,722円 | APE 2.98%
+row_45_富沢西_2025年第1四半期: Predicted 37,243,632円 | Actual 59,000,000円 | Abs diff 21,756,368円 | APE 36.88%
+row_46_青山_2025年第2四半期: Predicted 6,191,447円 | Actual 3,000,000円 | Abs diff 3,191,447円 | APE 106.38%
+row_47_青山_2025年第2四半期: Predicted 11,701,449円 | Actual 18,000,000円 | Abs diff 6,298,551円 | APE 34.99%
+row_48_青山_2025年第2四半期: Predicted 28,910,748円 | Actual 22,000,000円 | Abs diff 6,910,748円 | APE 31.41%
+row_49_大谷地_2025年第2四半期: Predicted 10,545,716円 | Actual 10,000,000円 | Abs diff 545,716円 | APE 5.46%
+row_50_鈎取本町_2025年第2四半期: Predicted 26,756,304円 | Actual 30,000,000円 | Abs diff 3,243,696円 | APE 10.81%
+row_51_金剛沢_2025年第2四半期: Predicted 17,458,406円 | Actual 14,000,000円 | Abs diff 3,458,406円 | APE 24.70%
+row_52_金剛沢_2025年第2四半期: Predicted 33,476,418円 | Actual 32,000,000円 | Abs diff 1,476,418円 | APE 4.61%
+row_53_金剛沢_2025年第2四半期: Predicted 33,368,872円 | Actual 28,000,000円 | Abs diff 5,368,872円 | APE 19.17%
+row_54_八木山香澄町_2025年第2四半期: Predicted 23,970,432円 | Actual 25,000,000円 | Abs diff 1,029,568円 | APE 4.12%
+row_55_秋保町湯向_2025年第2四半期: Predicted 10,867,793円 | Actual 14,000,000円 | Abs diff 3,132,207円 | APE 22.37%
+row_56_青山_2025年第3四半期: SKIPPED - missing_Structure | Structure=''
+row_57_青山_2025年第3四半期: Predicted 22,650,568円 | Actual 5,300,000円 | Abs diff 17,350,568円 | APE 327.37%
+row_58_鈎取本町_2025年第3四半期: Predicted 26,733,258円 | Actual 27,000,000円 | Abs diff 266,742円 | APE 0.99%
+row_59_鈎取本町_2025年第3四半期: SKIPPED - missing_CoverageRatio|missing_FloorAreaRatio | CoverageRatio=''; FloorAreaRatio=''
+row_60_金剛沢_2025年第3四半期: Predicted 33,512,832円 | Actual 31,000,000円 | Abs diff 2,512,832円 | APE 8.11%
+row_61_金剛沢_2025年第3四半期: Predicted 33,282,838円 | Actual 30,000,000円 | Abs diff 3,282,838円 | APE 10.94%
+row_62_長町_2025年第3四半期: Predicted 35,517,792円 | Actual 42,000,000円 | Abs diff 6,482,208円 | APE 15.43%
+row_63_長町_2025年第3四半期: Predicted 71,632,296円 | Actual 60,000,000円 | Abs diff 11,632,296円 | APE 19.39%
+row_64_長町_2025年第3四半期: Predicted 19,777,712円 | Actual 29,000,000円 | Abs diff 9,222,288円 | APE 31.80%
+row_65_八木山本町_2025年第3四半期: Predicted 29,016,128円 | Actual 46,000,000円 | Abs diff 16,983,872円 | APE 36.92%
+row_66_柳生_2025年第3四半期: Predicted 52,468,680円 | Actual 40,000,000円 | Abs diff 12,468,680円 | APE 31.17%
+row_67_富沢西_2025年第3四半期: Predicted 48,593,296円 | Actual 57,000,000円 | Abs diff 8,406,704円 | APE 14.75%
+row_68_泉崎_2025年第1四半期: Predicted 33,350,920円 | Actual 46,000,000円 | Abs diff 12,649,080円 | APE 27.50%
+row_69_泉崎_2025年第1四半期: Predicted 48,828,264円 | Actual 56,000,000円 | Abs diff 7,171,736円 | APE 12.81%
+row_70_大塒町_2025年第1四半期: Predicted 16,745,013円 | Actual 24,000,000円 | Abs diff 7,254,987円 | APE 30.23%
+row_71_中田_2025年第1四半期: Predicted 36,791,620円 | Actual 35,000,000円 | Abs diff 1,791,620円 | APE 5.12%
+row_72_中田_2025年第1四半期: Predicted 35,790,264円 | Actual 33,000,000円 | Abs diff 2,790,264円 | APE 8.46%
+row_73_西多賀_2025年第1四半期: Predicted 22,924,904円 | Actual 32,000,000円 | Abs diff 9,075,096円 | APE 28.36%
+row_74_西中田_2025年第1四半期: Predicted 29,759,038円 | Actual 33,000,000円 | Abs diff 3,240,962円 | APE 9.82%
+row_75_西中田_2025年第1四半期: Predicted 36,261,304円 | Actual 33,000,000円 | Abs diff 3,261,304円 | APE 9.88%
+row_76_西中田_2025年第1四半期: Predicted 37,113,516円 | Actual 33,000,000円 | Abs diff 4,113,516円 | APE 12.47%
+row_77_西中田_2025年第1四半期: Predicted 38,135,632円 | Actual 38,000,000円 | Abs diff 135,632円 | APE 0.36%
+row_78_西中田_2025年第1四半期: Predicted 44,253,756円 | Actual 38,000,000円 | Abs diff 6,253,756円 | APE 16.46%
+row_79_西中田_2025年第1四半期: Predicted 28,253,976円 | Actual 35,000,000円 | Abs diff 6,746,024円 | APE 19.27%
+row_80_東大野田_2025年第1四半期: Predicted 39,727,540円 | Actual 41,000,000円 | Abs diff 1,272,460円 | APE 3.10%
+row_81_東大野田_2025年第1四半期: Predicted 37,454,264円 | Actual 42,000,000円 | Abs diff 4,545,736円 | APE 10.82%
+row_82_東大野田_2025年第1四半期: Predicted 39,429,700円 | Actual 39,000,000円 | Abs diff 429,700円 | APE 1.10%
+row_83_東大野田_2025年第1四半期: Predicted 37,677,108円 | Actual 41,000,000円 | Abs diff 3,322,892円 | APE 8.10%
+row_84_袋原_2025年第1四半期: Predicted 31,491,110円 | Actual 31,000,000円 | Abs diff 491,110円 | APE 1.58%
+row_85_袋原_2025年第1四半期: Predicted 20,708,454円 | Actual 26,000,000円 | Abs diff 5,291,546円 | APE 20.35%
+row_86_袋原_2025年第1四半期: Predicted 11,523,094円 | Actual 16,000,000円 | Abs diff 4,476,906円 | APE 27.98%
+row_87_袋原_2025年第1四半期: SKIPPED - missing_NearestStation|missing_station_time | NearestStation=''; station_time=''
+row_88_八木山弥生町_2025年第1四半期: Predicted 31,252,414円 | Actual 33,000,000円 | Abs diff 1,747,586円 | APE 5.30%
+row_89_山田自由ケ丘_2025年第1四半期: Predicted 35,211,324円 | Actual 25,000,000円 | Abs diff 10,211,324円 | APE 40.85%
+row_90_東郡山_2025年第1四半期: Predicted 34,460,240円 | Actual 30,000,000円 | Abs diff 4,460,240円 | APE 14.87%
+row_91_東郡山_2025年第1四半期: Predicted 34,122,196円 | Actual 29,000,000円 | Abs diff 5,122,196円 | APE 17.66%
+row_92_東郡山_2025年第1四半期: Predicted 34,122,196円 | Actual 28,000,000円 | Abs diff 6,122,196円 | APE 21.86%
+row_93_東郡山_2025年第1四半期: Predicted 20,031,636円 | Actual 28,000,000円 | Abs diff 7,968,364円 | APE 28.46%
+row_94_東郡山_2025年第1四半期: Predicted 49,277,100円 | Actual 38,000,000円 | Abs diff 11,277,100円 | APE 29.68%
+row_95_東中田_2025年第1四半期: Predicted 29,288,266円 | Actual 26,000,000円 | Abs diff 3,288,266円 | APE 12.65%
+row_96_東中田_2025年第1四半期: Predicted 14,546,410円 | Actual 29,000,000円 | Abs diff 14,453,590円 | APE 49.84%
+row_97_東中田_2025年第1四半期: Predicted 38,659,764円 | Actual 28,000,000円 | Abs diff 10,659,764円 | APE 38.07%
+row_98_泉崎_2025年第2四半期: Predicted 48,008,800円 | Actual 49,000,000円 | Abs diff 991,200円 | APE 2.02%
+row_99_大塒町_2025年第2四半期: Predicted 24,193,490円 | Actual 27,000,000円 | Abs diff 2,806,510円 | APE 10.39%
+row_100_中田_2025年第2四半期: Predicted 41,035,140円 | Actual 49,000,000円 | Abs diff 7,964,860円 | APE 16.25%
+row_101_中田_2025年第2四半期: Predicted 32,792,606円 | Actual 25,000,000円 | Abs diff 7,792,606円 | APE 31.17%
+
+Summary
+Results written to: taihaku_2024_results.csv
+Rows processed: 100
+Successful tests: 91
+Skipped rows: 9
+Request errors: 0
+MAE: 5,290,491円
+Median abs error: 4,253,596円
+MAPE: 31.08%
+Median APE: 14.75%
+Station time sources:
+- observed: 52
+- imputed_station_median: 39
+Skip reasons:
+- missing_NearestStation|missing_station_time: 4
+- missing_CoverageRatio|missing_FloorAreaRatio: 3
+- missing_BuildingYear|missing_Structure: 1
+- missing_Structure: 1

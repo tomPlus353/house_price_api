@@ -1,0 +1,120 @@
+mapping for Renovation ['Done', 'Not yet']
+row_2_青山_2018年第4四半期: Predicted 8,221,425円 | Actual 9,800,000円 | Abs diff 1,578,575円 | APE 16.11%
+row_3_青山_2018年第4四半期: Predicted 10,661,180円 | Actual 9,800,000円 | Abs diff 861,180円 | APE 8.79%
+row_4_青山_2018年第4四半期: Predicted 22,622,686円 | Actual 23,000,000円 | Abs diff 377,314円 | APE 1.64%
+row_5_青山_2018年第4四半期: Predicted 7,238,958円 | Actual 7,000,000円 | Abs diff 238,958円 | APE 3.41%
+row_6_青山_2018年第3四半期: Predicted 22,453,342円 | Actual 22,000,000円 | Abs diff 453,342円 | APE 2.06%
+row_7_青山_2018年第2四半期: Predicted 7,859,946円 | Actual 6,000,000円 | Abs diff 1,859,946円 | APE 31.00%
+row_8_青山_2018年第1四半期: Predicted 27,590,682円 | Actual 21,000,000円 | Abs diff 6,590,682円 | APE 31.38%
+row_9_青山_2018年第3四半期: Predicted 8,708,940円 | Actual 20,000,000円 | Abs diff 11,291,060円 | APE 56.46%
+row_10_青山_2018年第2四半期: Predicted 26,032,154円 | Actual 28,000,000円 | Abs diff 1,967,846円 | APE 7.03%
+row_11_青山_2018年第2四半期: Predicted 24,292,378円 | Actual 36,000,000円 | Abs diff 11,707,622円 | APE 32.52%
+row_12_秋保町長袋_2018年第3四半期: SKIPPED - missing_CoverageRatio|missing_FloorAreaRatio|unmapped_CityPlanning | CityPlanning='都計外'; CoverageRatio=''; FloorAreaRatio=''
+row_13_泉崎_2018年第1四半期: Predicted 51,014,932円 | Actual 64,000,000円 | Abs diff 12,985,068円 | APE 20.29%
+row_14_大塒町_2018年第4四半期: Predicted 25,602,514円 | Actual 25,000,000円 | Abs diff 602,514円 | APE 2.41%
+row_15_大塒町_2018年第4四半期: Predicted 25,690,880円 | Actual 25,000,000円 | Abs diff 690,880円 | APE 2.76%
+row_16_大野田_2018年第4四半期: SKIPPED - missing_BuildingYear|missing_Structure|missing_TotalFloorArea | BuildingYear=''; Structure=''; TotalFloorArea=''
+row_17_大野田_2018年第4四半期: SKIPPED - missing_BuildingYear|missing_Structure|missing_TotalFloorArea | BuildingYear=''; Structure=''; TotalFloorArea=''
+row_18_大野田_2018年第2四半期: SKIPPED - missing_Structure | Structure=''
+row_19_大野田_2018年第2四半期: SKIPPED - missing_BuildingYear|missing_Structure|missing_TotalFloorArea | BuildingYear=''; Structure=''; TotalFloorArea=''
+row_20_大野田_2018年第4四半期: Predicted 218,749,728円 | Actual 250,000,000円 | Abs diff 31,250,272円 | APE 12.50%
+row_21_大野田_2018年第3四半期: Predicted 38,350,012円 | Actual 38,000,000円 | Abs diff 350,012円 | APE 0.92%
+row_22_大野田_2018年第3四半期: Predicted 39,008,784円 | Actual 32,000,000円 | Abs diff 7,008,784円 | APE 21.90%
+row_23_大野田_2018年第1四半期: SKIPPED - missing_BuildingYear|missing_Structure|missing_TotalFloorArea | BuildingYear=''; Structure=''; TotalFloorArea=''
+row_24_大野田_2018年第1四半期: Predicted 373,989,408円 | Actual 230,000,000円 | Abs diff 143,989,408円 | APE 62.60%
+row_25_大谷地_2018年第3四半期: Predicted 26,708,612円 | Actual 24,000,000円 | Abs diff 2,708,612円 | APE 11.29%
+row_26_大谷地_2018年第3四半期: Predicted 8,159,156円 | Actual 23,000,000円 | Abs diff 14,840,844円 | APE 64.53%
+row_27_大谷地_2018年第3四半期: Predicted 30,296,954円 | Actual 40,000,000円 | Abs diff 9,703,046円 | APE 24.26%
+row_28_大谷地_2018年第3四半期: Predicted 27,747,494円 | Actual 33,000,000円 | Abs diff 5,252,506円 | APE 15.92%
+row_29_大谷地_2018年第3四半期: Predicted 29,872,212円 | Actual 32,000,000円 | Abs diff 2,127,788円 | APE 6.65%
+row_30_鈎取_2018年第3四半期: Predicted 10,020,480円 | Actual 10,000,000円 | Abs diff 20,480円 | APE 0.20%
+row_31_鈎取_2018年第1四半期: SKIPPED - missing_BuildingYear|missing_Structure | BuildingYear=''; Structure=''
+row_32_鈎取_2018年第2四半期: Predicted 30,279,990円 | Actual 31,000,000円 | Abs diff 720,010円 | APE 2.32%
+row_33_鈎取_2018年第2四半期: Predicted 225,884,912円 | Actual 240,000,000円 | Abs diff 14,115,088円 | APE 5.88%
+row_34_鈎取_2018年第1四半期: Predicted 13,996,038円 | Actual 14,000,000円 | Abs diff 3,962円 | APE 0.03%
+row_35_鈎取_2018年第1四半期: Predicted 9,615,768円 | Actual 5,300,000円 | Abs diff 4,315,768円 | APE 81.43%
+row_36_鈎取本町_2018年第1四半期: Predicted 28,613,088円 | Actual 25,000,000円 | Abs diff 3,613,088円 | APE 14.45%
+row_37_鈎取本町_2018年第1四半期: Predicted 31,180,808円 | Actual 33,000,000円 | Abs diff 1,819,192円 | APE 5.51%
+row_38_鹿野_2018年第4四半期: SKIPPED - missing_Structure|missing_TotalFloorArea | Structure=''; TotalFloorArea=''
+row_39_鹿野_2018年第3四半期: Predicted 28,236,206円 | Actual 41,000,000円 | Abs diff 12,763,794円 | APE 31.13%
+row_40_鹿野_2018年第3四半期: SKIPPED - missing_Structure | Structure=''
+row_41_鹿野_2018年第2四半期: Predicted 174,691,680円 | Actual 190,000,000円 | Abs diff 15,308,320円 | APE 8.06%
+row_42_上野山_2018年第4四半期: Predicted 27,260,300円 | Actual 27,000,000円 | Abs diff 260,300円 | APE 0.96%
+row_43_上野山_2018年第4四半期: Predicted 27,073,178円 | Actual 25,000,000円 | Abs diff 2,073,178円 | APE 8.29%
+row_44_上野山_2018年第4四半期: Predicted 26,886,524円 | Actual 26,000,000円 | Abs diff 886,524円 | APE 3.41%
+row_45_上野山_2018年第3四半期: Predicted 16,596,785円 | Actual 11,000,000円 | Abs diff 5,596,785円 | APE 50.88%
+row_46_上野山_2018年第2四半期: Predicted 10,693,803円 | Actual 7,500,000円 | Abs diff 3,193,803円 | APE 42.58%
+row_47_恵和町_2018年第3四半期: Predicted 25,555,156円 | Actual 26,000,000円 | Abs diff 444,844円 | APE 1.71%
+row_48_恵和町_2018年第2四半期: Predicted 24,506,006円 | Actual 23,000,000円 | Abs diff 1,506,006円 | APE 6.55%
+row_49_恵和町_2018年第1四半期: SKIPPED - missing_BuildingYear|missing_Structure|missing_TotalFloorArea | BuildingYear=''; Structure=''; TotalFloorArea=''
+row_50_恵和町_2018年第4四半期: Predicted 5,672,659円 | Actual 2,000,000円 | Abs diff 3,672,659円 | APE 183.63%
+row_51_越路_2018年第2四半期: Predicted 54,194,784円 | Actual 56,000,000円 | Abs diff 1,805,216円 | APE 3.22%
+row_52_郡山_2018年第4四半期: Predicted 33,853,828円 | Actual 37,000,000円 | Abs diff 3,146,172円 | APE 8.50%
+row_53_郡山_2018年第4四半期: Predicted 31,438,026円 | Actual 29,000,000円 | Abs diff 2,438,026円 | APE 8.41%
+row_54_郡山_2018年第2四半期: Predicted 29,889,962円 | Actual 11,000,000円 | Abs diff 18,889,962円 | APE 171.73%
+row_55_郡山_2018年第2四半期: Predicted 33,567,532円 | Actual 37,000,000円 | Abs diff 3,432,468円 | APE 9.28%
+row_56_郡山_2018年第1四半期: Predicted 40,068,796円 | Actual 44,000,000円 | Abs diff 3,931,204円 | APE 8.93%
+row_57_郡山_2018年第1四半期: Predicted 33,468,612円 | Actual 38,000,000円 | Abs diff 4,531,388円 | APE 11.92%
+row_58_郡山_2018年第1四半期: SKIPPED - missing_Structure | Structure=''
+row_59_郡山_2018年第4四半期: Predicted 33,930,912円 | Actual 35,000,000円 | Abs diff 1,069,088円 | APE 3.05%
+row_60_郡山_2018年第3四半期: Predicted 33,739,788円 | Actual 40,000,000円 | Abs diff 6,260,212円 | APE 15.65%
+row_61_郡山_2018年第2四半期: SKIPPED - missing_BuildingYear|missing_Structure|missing_TotalFloorArea | BuildingYear=''; Structure=''; TotalFloorArea=''
+row_62_郡山_2018年第1四半期: SKIPPED - missing_Structure | Structure=''
+row_63_郡山_2018年第1四半期: SKIPPED - missing_Structure|missing_TotalFloorArea | Structure=''; TotalFloorArea=''
+row_64_郡山_2018年第1四半期: Predicted 34,337,992円 | Actual 45,000,000円 | Abs diff 10,662,008円 | APE 23.69%
+row_65_金剛沢_2018年第4四半期: Predicted 19,458,822円 | Actual 15,000,000円 | Abs diff 4,458,822円 | APE 29.73%
+row_66_金剛沢_2018年第2四半期: Predicted 28,832,766円 | Actual 30,000,000円 | Abs diff 1,167,234円 | APE 3.89%
+row_67_金剛沢_2018年第1四半期: Predicted 10,925,977円 | Actual 6,700,000円 | Abs diff 4,225,977円 | APE 63.07%
+row_68_桜木町_2018年第4四半期: SKIPPED - missing_Structure | Structure=''
+row_69_桜木町_2018年第3四半期: Predicted 10,832,620円 | Actual 9,800,000円 | Abs diff 1,032,620円 | APE 10.54%
+row_70_桜木町_2018年第2四半期: Predicted 9,318,264円 | Actual 8,800,000円 | Abs diff 518,264円 | APE 5.89%
+row_71_四郎丸_2018年第4四半期: Predicted 25,009,736円 | Actual 23,000,000円 | Abs diff 2,009,736円 | APE 8.74%
+row_72_四郎丸_2018年第4四半期: Predicted 25,096,698円 | Actual 25,000,000円 | Abs diff 96,698円 | APE 0.39%
+row_73_四郎丸_2018年第4四半期: Predicted 9,422,825円 | Actual 20,000,000円 | Abs diff 10,577,175円 | APE 52.89%
+row_74_四郎丸_2018年第4四半期: Predicted 24,922,786円 | Actual 21,000,000円 | Abs diff 3,922,786円 | APE 18.68%
+row_75_四郎丸_2018年第4四半期: SKIPPED - missing_BuildingYear|missing_Structure | BuildingYear=''; Structure=''
+row_76_四郎丸_2018年第4四半期: Predicted 26,313,522円 | Actual 28,000,000円 | Abs diff 1,686,478円 | APE 6.02%
+row_77_四郎丸_2018年第3四半期: Predicted 24,192,106円 | Actual 23,000,000円 | Abs diff 1,192,106円 | APE 5.18%
+row_78_四郎丸_2018年第3四半期: Predicted 25,530,120円 | Actual 27,000,000円 | Abs diff 1,469,880円 | APE 5.44%
+row_79_四郎丸_2018年第2四半期: Predicted 11,662,867円 | Actual 19,000,000円 | Abs diff 7,337,133円 | APE 38.62%
+row_80_四郎丸_2018年第2四半期: Predicted 22,459,826円 | Actual 25,000,000円 | Abs diff 2,540,174円 | APE 10.16%
+row_81_四郎丸_2018年第2四半期: Predicted 22,597,460円 | Actual 25,000,000円 | Abs diff 2,402,540円 | APE 9.61%
+row_82_四郎丸_2018年第2四半期: Predicted 22,322,894円 | Actual 22,000,000円 | Abs diff 322,894円 | APE 1.47%
+row_83_四郎丸_2018年第2四半期: Predicted 24,922,786円 | Actual 30,000,000円 | Abs diff 5,077,214円 | APE 16.92%
+row_84_諏訪町_2018年第4四半期: Predicted 187,080,432円 | Actual 230,000,000円 | Abs diff 42,919,568円 | APE 18.66%
+row_85_諏訪町_2018年第1四半期: SKIPPED - missing_BuildingYear|missing_Structure|missing_TotalFloorArea | BuildingYear=''; Structure=''; TotalFloorArea=''
+row_86_諏訪町_2018年第1四半期: Predicted 34,962,116円 | Actual 31,000,000円 | Abs diff 3,962,116円 | APE 12.78%
+row_87_太子堂_2018年第1四半期: Predicted 31,405,530円 | Actual 36,000,000円 | Abs diff 4,594,470円 | APE 12.76%
+row_88_太白_2018年第4四半期: Predicted 11,788,802円 | Actual 24,000,000円 | Abs diff 12,211,198円 | APE 50.88%
+row_89_太白_2018年第4四半期: SKIPPED - missing_Structure | Structure=''
+row_90_太白_2018年第3四半期: Predicted 11,788,802円 | Actual 12,000,000円 | Abs diff 211,198円 | APE 1.76%
+row_91_太白_2018年第2四半期: SKIPPED - missing_Structure | Structure=''
+row_92_太白_2018年第1四半期: Predicted 25,100,064円 | Actual 21,000,000円 | Abs diff 4,100,064円 | APE 19.52%
+row_93_土手内_2018年第4四半期: Predicted 12,326,862円 | Actual 23,000,000円 | Abs diff 10,673,138円 | APE 46.40%
+row_94_土手内_2018年第4四半期: Predicted 18,903,418円 | Actual 23,000,000円 | Abs diff 4,096,582円 | APE 17.81%
+row_95_土手内_2018年第3四半期: Predicted 14,543,794円 | Actual 16,000,000円 | Abs diff 1,456,206円 | APE 9.10%
+row_96_土手内_2018年第1四半期: Predicted 15,056,142円 | Actual 11,000,000円 | Abs diff 4,056,142円 | APE 36.87%
+row_97_富沢_2018年第4四半期: SKIPPED - missing_Structure | Structure=''
+row_98_富沢_2018年第4四半期: SKIPPED - missing_BuildingYear|missing_Structure|missing_TotalFloorArea | BuildingYear=''; Structure=''; TotalFloorArea=''
+row_99_富沢_2018年第4四半期: Predicted 38,398,028円 | Actual 39,000,000円 | Abs diff 601,972円 | APE 1.54%
+row_100_富沢_2018年第3四半期: Predicted 48,835,052円 | Actual 60,000,000円 | Abs diff 11,164,948円 | APE 18.61%
+row_101_富沢_2018年第3四半期: Predicted 123,902,960円 | Actual 120,000,000円 | Abs diff 3,902,960円 | APE 3.25%
+
+Summary
+Results written to: taihaku_2018_results.csv
+Rows processed: 100
+Successful tests: 79
+Skipped rows: 21
+Request errors: 0
+MAE: 6,948,153円
+Median abs error: 3,193,803円
+MAPE: 21.33%
+Median APE: 10.16%
+Station time sources:
+- observed: 79
+Skip reasons:
+- missing_BuildingYear|missing_Structure|missing_TotalFloorArea: 8
+- missing_Structure: 8
+- missing_BuildingYear|missing_Structure: 2
+- missing_Structure|missing_TotalFloorArea: 2
+- missing_CoverageRatio|missing_FloorAreaRatio|unmapped_CityPlanning: 1
